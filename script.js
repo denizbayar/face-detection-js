@@ -49,7 +49,7 @@ function findExpression(obj) {
         i == 1 ? 'happy' :
             i == 2 ? 'sad' :
                 i == 3 ? 'angry' :
-                    i == 4 ? 'fearfu l' :
+                    i == 4 ? 'fearful' :
                         i == 5 ? 'disgusted' :
                             i == 6 ? 'surprised' : 'default';
 }
