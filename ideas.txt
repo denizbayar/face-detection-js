@@ -1,0 +1,2 @@
+Play song depend on your mood. Use and API to get songs maybe from Spotify ?
+Hand detection video-after detecting hand say 'Hello motherfucker'
